@@ -7,3 +7,4 @@ The script in 5-execute adds execute permission to the owner of the file hello.
 The script in 6-multiple_permissions  adds execute permission to the owner and group owner and read permission to others
 The script in 7-everybody adds execute permission to the owner,group owner and other users.
 The script in 8-James_Bond adds all permissions to other users but does not add any permissions to bith the owner and group owner
+The script in 9-John_Doe sets the mode of the file hello as shown in the question

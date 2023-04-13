@@ -11,3 +11,4 @@ The script in 9-John_Doe sets the mode of the file hello as shown in the questio
 The script in 10-mirror_permissions set the mode of the hello file as that of olleh file
 The script in 11-directories_permissions adds execute permission to all subdirectories of the current directory for the owner, the group owner and all other users and
 regular files are not  changed.
+The script in 12-directory_permissions creates a directory called my_dir with permissions 751 in the working directory

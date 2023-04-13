@@ -10,3 +10,4 @@ The script in 8-firstdelete deletes the file betty in tmp/my_first_directory.
 The script in 9-firstdirdeletion deletes the directory my_first_directory that is in the /tmp directory.
 The script in 10-back  changes the working directory to the previous one.
 The script in 11-lists  lists all files (even ones with names beginning with a period character, which are normally hidden) in the current directory and the parent of the working directory and the /boot directory (in this order), in long format.
+The script in 12-file_type  prints the type of the file named iamafile. The file iamafile is in the /tmp directory

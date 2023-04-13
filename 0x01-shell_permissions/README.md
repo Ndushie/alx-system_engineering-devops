@@ -8,3 +8,4 @@ The script in 6-multiple_permissions  adds execute permission to the owner and g
 The script in 7-everybody adds execute permission to the owner,group owner and other users.
 The script in 8-James_Bond adds all permissions to other users but does not add any permissions to bith the owner and group owner
 The script in 9-John_Doe sets the mode of the file hello as shown in the question
+The scriot in 10-mirror_permissions set the mode of the hello file as that of olleh file

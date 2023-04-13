@@ -2,4 +2,5 @@ The script in 0-current_working_directory prints the absolute pathname of the wo
 The script in 1-listit displays the contents list of your current directory
 The script in 2-bring_me_home changes the working directory to the user’s home directory.
 The script in 3-listfiles displays current directory contents in a long format.
-The script in 4-listmorefiles displays current directory contents, including hidden files (starting with .) 
+The script in 4-listmorefiles displays current directory contents, including hidden files (starting with .)
+The script in 5-listfilesdigitonly displays current directory contents in long format with user and group IDs displayed numerically and hidden files (starting with .) 

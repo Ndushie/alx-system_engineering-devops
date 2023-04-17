@@ -21,3 +21,7 @@ The script in 19-AZ will replace all characters A and c from input to Z and e re
 The script in 20-hiago removes all letters c and C from input.
 The script in 21-reverse will reverse its input
 The script in 22-users_and_homes displays all users and their home directories, sorted by users.
+The script in 100-empty_casks finds all empty files and directories in the current directory and all sub-directories.
+The script in 101-gifs  lists all the files with a .gif extension in the current directory and all its sub-directories.
+The script in 102-acrostic decodes acrostics that use the first letter of each line.
+The script in 103-the_biggest_fan parses web servers logs in TSV format as input and displays the 11 hosts or IP addresses which did the most requests.
